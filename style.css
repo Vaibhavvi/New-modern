@@ -1,0 +1,8 @@
+*{
+    max-resolution: 0;
+    padding: auto;
+}
+body{
+    height: 100vh;
+    width: 100vh;
+}
